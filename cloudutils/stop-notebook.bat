@@ -1,1 +1,1 @@
-gcloud beta notebooks instances stop notebook
+gcloud beta notebooks instances stop kaggle-20201104-005451
