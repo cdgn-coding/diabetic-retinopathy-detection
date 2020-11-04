@@ -1,6 +1,6 @@
 (gcloud beta notebooks instances create notebook ^
-  --vm-image-project=focus-skein-294600 ^
+  --vm-image-project=deeplearning-platform-release ^
   --vm-image-family=tf2-2-3-cpu ^
-  --machine-type=n1-standard-4 ^
+  --machine-type=n1-standard-2 ^
   --location=us-east1-b ^
-  --boot-disk-size=250)
+  --boot-disk-size=500)
