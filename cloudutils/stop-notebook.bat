@@ -1,0 +1,1 @@
+gcloud beta notebooks instances stop notebook
